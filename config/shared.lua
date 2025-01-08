@@ -47,7 +47,7 @@ return {
 
     police = {
         -- How many police must be online in order to start a robbery?
-        count = 0,
+        count = 2,
         -- Add your police job(s) below
         jobs = { 'police', 'sheriff' },
         -- Set your dispatch system
